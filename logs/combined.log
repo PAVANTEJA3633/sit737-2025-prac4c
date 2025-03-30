@@ -1,0 +1,10 @@
+{"level":"info","message":"Calculator microservice running on http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"New addition operation: 10 + 5 = 15","service":"calculator-microservice"}
+{"level":"info","message":"Calculator microservice running on http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"New addition operation: 10 + 5 = 15","service":"calculator-microservice"}
+{"level":"info","message":"New subtraction operation: 10 - 5 = 5","service":"calculator-microservice"}
+{"level":"info","message":"New multiplication operation: 10 * 5 = 50","service":"calculator-microservice"}
+{"level":"info","message":"New division operation: 10 / 5 = 2","service":"calculator-microservice"}
+{"level":"info","message":"New exponentiation operation: 2 ^ 3 = 8","service":"calculator-microservice"}
+{"level":"info","message":"New square root operation: √9 = 3","service":"calculator-microservice"}
+{"level":"info","message":"New modulo operation: 10 % 3 = 1","service":"calculator-microservice"}
